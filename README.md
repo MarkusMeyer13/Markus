@@ -1,7 +1,9 @@
 # About me
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=markusmeyer13)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
+[Markus's GitHub stats](https://github-readme-stats.vercel.app/api?username=markusmeyer13&show_icons=true&theme=dark)
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
