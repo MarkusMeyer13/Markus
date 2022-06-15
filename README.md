@@ -12,9 +12,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Function with identity-based connections](https://markusmeyer.hashnode.dev/azure-function-with-identity-based-connections)
 - [Unit Test Azure Function with Table Extension in C#](https://markusmeyer.hashnode.dev/unit-test-azure-function-with-table-extension-in-c)
 - [VS Code - REST Client - WSL](https://markusmeyer.hashnode.dev/vs-code-rest-client-wsl)
 - [Azure VNet Peering](https://markusmeyer.hashnode.dev/azure-vnet-peering)
 - [Sync two CosmosDB collections with an Azure Function](https://markusmeyer.hashnode.dev/sync-two-cosmosdb-collections-with-an-azure-function)
-- [Create Azure API Management API Operation with Azure CLI](https://markusmeyer.hashnode.dev/create-azure-api-management-api-operation-with-azure-cli)
 <!-- BLOG-POST-LIST:END -->
