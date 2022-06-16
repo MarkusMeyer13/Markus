@@ -12,9 +12,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmos Db - Increase the paging result size](https://markusmeyer.hashnode.dev/cosmos-db-increase-the-paging-result-size)
 - [Azure Function with identity-based connections](https://markusmeyer.hashnode.dev/azure-function-with-identity-based-connections)
 - [Unit Test Azure Function with Table Extension in C#](https://markusmeyer.hashnode.dev/unit-test-azure-function-with-table-extension-in-c)
 - [VS Code - REST Client - WSL](https://markusmeyer.hashnode.dev/vs-code-rest-client-wsl)
 - [Azure VNet Peering](https://markusmeyer.hashnode.dev/azure-vnet-peering)
-- [Sync two CosmosDB collections with an Azure Function](https://markusmeyer.hashnode.dev/sync-two-cosmosdb-collections-with-an-azure-function)
 <!-- BLOG-POST-LIST:END -->
