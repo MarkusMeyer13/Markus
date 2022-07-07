@@ -9,6 +9,8 @@
 
 ![Markus's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=markusmeyer13&theme=chartreuse-dark)
 
+<a href="https://stackexchange.com/users/9273165"><img src="https://stackexchange.com/users/flair/9273165.png" width="208" height="58" alt="profile for Markus Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Markus Meyer on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
