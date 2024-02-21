@@ -14,9 +14,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management - Developer Portal](https://markusmeyer.hashnode.dev/azure-api-management-developer-portal)
 - [Deploying OpenAPI in Azure API Management with Terraform](https://markusmeyer.hashnode.dev/deploying-openapi-in-azure-api-management-with-terraform)
 - [API Management - Convert SOAP POST to GET](https://markusmeyer.hashnode.dev/api-management-convert-soap-post-to-get)
 - [Cosmos Db - Increase the paging result size](https://markusmeyer.hashnode.dev/cosmos-db-increase-the-paging-result-size)
 - [Azure Function with identity-based connections](https://markusmeyer.hashnode.dev/azure-function-with-identity-based-connections)
+- [Unit Test Azure Function with Table Extension in C#](https://markusmeyer.hashnode.dev/unit-test-azure-function-with-table-extension-in-c)
 <!-- BLOG-POST-LIST:END -->
